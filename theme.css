@@ -1,0 +1,11 @@
+/* Alpenglow Painting — bright, warm, coral accent */
+:root {
+  --bg: #fbf8f4; --bg-2: #f3ede6; --surface: #ffffff;
+  --ink: #23201f; --ink-2: #5c5654; --ink-3: #8c8582; --line: #e7dfd8;
+  --accent: #d8573b; --accent-ink: #fff; --accent-soft: #fbe7e0;
+  --dark: #2b2320; --dark-ink: #f8f3ee; --dark-muted: #bfb2aa;
+  --radius: 20px;
+  --font-head: "Manrope", system-ui, sans-serif;
+  --hero-focus: 40% 50%;
+}
+h1, h2, h3 { font-weight: 800; letter-spacing: -.03em; }
